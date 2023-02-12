@@ -16,6 +16,6 @@
 - This will provide a global url for our local server port(eg.  https://77e7-103-47-173-15.in.ngrok.io)
 - Now Run the Spring-Boot Application and start the Tomcat Server.
 
-- Use the available url / "<Controller end points>" (eg. https://77e7-103-47-173-15.in.ngrok.io/req/webhook) to setting up the webhook
+- Use the available url / "Controller end points" , (eg. https://77e7-103-47-173-15.in.ngrok.io/req/webhook) to setting up the webhook
 - now setup the webhook githubrepo which we want integrate
 Thanks for visiting !
